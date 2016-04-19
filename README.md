@@ -12,9 +12,7 @@
 npm install
 ```
 
-*Before run android build, install android studio and necessary tools*
-
-Guide to setup [Android Studio ](https://facebook.github.io/react-native/docs/android-setup.html)
+*Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)*
 
 **Step 3:** If Android
 
@@ -22,9 +20,7 @@ Guide to setup [Android Studio ](https://facebook.github.io/react-native/docs/an
 react-native run-android
 ```
 
-*Before running iOS build, install xcode*
-
-Install [xcode ](https://developer.apple.com/xcode/download/)
+*Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)*
 
 **Step 4:** If iOS
 
