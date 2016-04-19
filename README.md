@@ -20,7 +20,6 @@ Guide to setup [Android Studio ](https://facebook.github.io/react-native/docs/an
 
 ```
 react-native run-android
-
 ```
 
 *Before running iOS build, install xcode*
@@ -31,7 +30,6 @@ Install [xcode ](https://developer.apple.com/xcode/download/)
 
 ```
 react-native run-ios
-
 ```
 
 That's all
